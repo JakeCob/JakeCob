@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Data Science, or anything related to Data.
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on Machine Learning / Data Science Projects
-- 📫 How to reach me ...
+- 📫 How to reach me LinkedIn: https://www.linkedin.com/in/jacob-matthew-rafal-b94399217/
 
 <!---
 JakeCob/JakeCob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
