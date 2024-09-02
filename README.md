@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jacob Matthew Rafal. I'm a Machine Learning Engineer and Currently a graduating student. I'm also a Head of AI specialized in NLP for the GDSC PUP Main
+- 👋 Hi, I’m Jacob Matthew Rafal. I'm a AI Solutions Engineer at Sevron Ltd UK
 - 👀 I’m interested in Machine Learning, Data Science, or anything related to Data.
 - 🌱 I’m currently learning Software Engineering, Vertex AI
 - 💞️ I’m looking to collaborate on Machine Learning / Data Science Projects or anything relating data or software engineering
